@@ -10,3 +10,5 @@ https://insights.sigasi.com/opinion/jan/verilogs-major-flaw/ - explanation of de
 https://www.nandland.com/articles/block-ram-in-fpga.html - What is a BRAM?
 
 https://zipcpu.com/dsp/2017/10/27/lfsr.html - LFSR Theory and Galois Fields for beginners (useful for understanding boolean logic)
+
+http://www.asic-world.com/examples/verilog/d_ff.html - Verilog DFF, no Set (aka hold or enable), synchronous or async
