@@ -34,6 +34,14 @@ https://courses.cs.washington.edu/courses/cse370/09wi/ - I really like this cour
 
 https://www.fpga4student.com/2017/09/seven-segment-led-display-controller-basys3-fpga.html - 7-Segment Display tutorial. Works as is, but you need to change the XDC for the Nexys instead of Basys
 
+### Beginner FPGAs
+There's a 33% discount for students/teachers on most FPGAs, so if these are your thing this is the time
+#### Xilinx
+
+https://store.digilentinc.com/nexys-a7-fpga-trainer-board-recommended-for-ece-curriculum/ - **200$** - The board you use for class. It's a nice board, and has far and away the best IO options like displays, buttons and switches. Gread PMOD setup, ADC, good media connectors (VGA, audio codec, ethernet setup). Probably costs more than you should spend on a non-SoC FPGA
+
+
+
 ### Free Student Software I want to try personally
 
 https://www.sigasi.com/try-form-edu/ - Sigasi IDE. VHDL only. I've heard great things and have been doing VHDL mostly lately. May be in your best interest to practice VHDL since every DoD company around MD uses it
