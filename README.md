@@ -25,6 +25,9 @@ https://inst.eecs.berkeley.edu/~cs150/sp12/resources/FSM.pdf- FSMs in Verilog
 https://courses.cs.washington.edu/courses/cse370/09wi/ - I really like this course, but you can't access some stuff you need to do the tutorials as presented and need to adjust them
 
 ### Free Student Software I want to try personally
+
 https://www.sigasi.com/try-form-edu/ - Sigasi IDE. VHDL only. I've heard great things and have been doing VHDL mostly lately. May be in your best interest to practice VHDL since every DoD company around MD uses it
+
 https://www.mentor.com/company/higher_ed/modelsim-student-edition - Modelsim is an awesome simulator, but it only works on 32-bits and is a bit jumpy on Linux. It's great on Windows though. It's best used if you know how to run .do scripts
+
 https://www.aldec.com/en/products/fpga_simulation/active_hdl_student - I actually have this one and haven't used it much. It's a little more involved than Modelsim, but the GUI is way better.
