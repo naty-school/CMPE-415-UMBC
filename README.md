@@ -30,6 +30,8 @@ https://inst.eecs.berkeley.edu/~cs150/sp12/resources/FSM.pdf- FSMs in Verilog
 
 https://courses.cs.washington.edu/courses/cse370/09wi/ - I really like this course, but you can't access some stuff you need to do the tutorials as presented and need to adjust them
 
+https://www.fpga4student.com/2017/09/seven-segment-led-display-controller-basys3-fpga.html - 7-Segment Display tutorial. Works as is, but you need to change the XDC for the Nexys instead of Basys
+
 ### Free Student Software I want to try personally
 
 https://www.sigasi.com/try-form-edu/ - Sigasi IDE. VHDL only. I've heard great things and have been doing VHDL mostly lately. May be in your best interest to practice VHDL since every DoD company around MD uses it
