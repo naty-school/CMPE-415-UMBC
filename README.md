@@ -8,6 +8,8 @@ Note that they aren't particularly good though.
 
 https://eclipse.umbc.edu/robucci/cmpe415/ - old 415 site, useful for reference.
 
+https://github.com/Digilent?utf8=%E2%9C%93&q=Nexys&type=&language= - Digilent Nexys Demos. If you like this stuff and find it fun, spend some time on these. They're out-of-box fully functional and will teach you stuff. FYI the Nexys A7 and DDR4 are effectively the same board
+
 TRUST ME THIS IS IMPORTANT. I know these can be annoying, but until you've experienced timing error hell you don't understand www.sunburst-design.com/papers/CummingsSNUG2000SJ_NBA.pdf
 
 https://insights.sigasi.com/opinion/jan/verilogs-major-flaw/ - explanation of deltas and how nonblocking works
