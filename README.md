@@ -36,7 +36,7 @@ https://www.fpga4student.com/2017/09/seven-segment-led-display-controller-basys3
 
 ### Beginner FPGAs
 There's a 33% discount for students/teachers on most FPGAs, so if these are your thing this is the time. All prices below include the discount.
-#### Xilinx
+#### Xilinx - get free vivado at https://www.xilinx.com/products/design-tools/vivado/vivado-webpack.html
 
 https://store.digilentinc.com/nexys-a7-fpga-trainer-board-recommended-for-ece-curriculum/ - **200$** - The board you use for class. It's a nice board, and has far and away the best IO options like displays, buttons and switches. Gread PMOD setup, ADC, good media connectors (VGA, audio codec, ethernet setup). Probably costs more than you should spend on a non-SoC FPGA
 
@@ -47,6 +47,10 @@ http://www.tul.com.tw/ProductsPYNQ-Z2.html - **110$** - I own this board. It's o
 https://www.96boards.org/product/ultra96/ - **250$** - there's a strong case this is the best board for the value in the sub $1k range. The only competitor board is more expensive, which is the ....
 
 https://store.digilentinc.com/zedboard-zynq-7000-arm-fpga-soc-development-board/ - **360** - A really incredible SoC board, but a lot more expensive than others on this list.
+
+#### Altera - Get free Quartus https://fpgasoftware.intel.com/?edition=lite
+https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&CategoryNo=234&No=1021 - **$55**
+https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&CategoryNo=165&No=593&PartNo=2 - **$61** - Very similar to the DE10 Lite, but has a ton of IO headers in exchange for no 7-segments and stuff like that. DE0nano vs. DE10lite is basically the same conversation as Pynq Z2 vs. Basys above. For a cheap beginner FPGA, probably the DE10 makes more sense. You're not doing too much with either of these
 
 
 
