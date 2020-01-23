@@ -1,6 +1,8 @@
 
-### Beginner FPGAs
-There's a 33% discount for students/teachers on most FPGAs, so if these are your thing this is the time. All prices below include the discount.
+### Beginner FPGAs - A guide to affordable entries into the world of FPGAs
+There's a 33% discount for students/teachers on most FPGAs, so if these are your thing this is the time. All prices below include the discount. As far as Xilinx vs. Altera, a lot of that's personal preference. At UMBC you'll be using Xilinx toolchains, but at your future job could be either or both. Basically, in my opinion Altera has better low-end boards but Xilinx you'll be more familiar with.
+
+
 #### Xilinx - get free vivado at https://www.xilinx.com/products/design-tools/vivado/vivado-webpack.html
 
 https://store.digilentinc.com/nexys-a7-fpga-trainer-board-recommended-for-ece-curriculum/ - **200$** - The board you use for class. It's a nice board, and has far and away the best IO options like displays, buttons and switches. Gread PMOD setup, ADC, good media connectors (VGA, audio codec, ethernet setup). Probably costs more than you should spend on a non-SoC FPGA
