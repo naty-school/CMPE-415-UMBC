@@ -35,12 +35,18 @@ https://courses.cs.washington.edu/courses/cse370/09wi/ - I really like this cour
 https://www.fpga4student.com/2017/09/seven-segment-led-display-controller-basys3-fpga.html - 7-Segment Display tutorial. Works as is, but you need to change the XDC for the Nexys instead of Basys
 
 ### Beginner FPGAs
-There's a 33% discount for students/teachers on most FPGAs, so if these are your thing this is the time
+There's a 33% discount for students/teachers on most FPGAs, so if these are your thing this is the time. All prices below include the discount.
 #### Xilinx
 
 https://store.digilentinc.com/nexys-a7-fpga-trainer-board-recommended-for-ece-curriculum/ - **200$** - The board you use for class. It's a nice board, and has far and away the best IO options like displays, buttons and switches. Gread PMOD setup, ADC, good media connectors (VGA, audio codec, ethernet setup). Probably costs more than you should spend on a non-SoC FPGA
 
-https://store.digilentinc.com/basys-3-artix-7-fpga-trainer-board-recommended-for-introductory-users/?gclid=EAIaIQobChMI4LzeqI6a5wIVEJSzCh1x5QdFEAAYASAAEgIvEvD_BwE - **112$** - Same concept as Nexys, just smaller, fewer displays, switches, etc. but a very similar board. The perk of the Nexys/Basys is the plethora of tutorials (see the digilent github above)
+https://store.digilentinc.com/basys-3-artix-7-fpga-trainer-board-recommended-for-introductory-users/?gclid=EAIaIQobChMI4LzeqI6a5wIVEJSzCh1x5QdFEAAYASAAEgIvEvD_BwE - **112$** - Same concept as Nexys, just smaller, fewer displays, switches, etc. but a very similar board. The perk of the Nexys/Basys is the plethora of tutorials (see the digilent github above). Nexys will be useful for much bigger projects dues to far more extensive IO and much bigger memory.
+
+http://www.tul.com.tw/ProductsPYNQ-Z2.html - **110$** - I own this board. It's one of the cheapest SoCs out there, but is a **really** excellent board. Some of the best value for your money as you get into SoC stuff. The downside is it's a little harder for beginners to use, and may require a PMOD set for stuff like SSDs. It also allows you to program FPGAs in Python if you put the time in to learn how to do it.
+
+https://www.96boards.org/product/ultra96/ - **250$** - there's a strong case this is the best board for the value in the sub $1k range. The only competitor board is more expensive, which is the ....
+
+https://store.digilentinc.com/zedboard-zynq-7000-arm-fpga-soc-development-board/ - **360** - A really incredible SoC board, but a lot more expensive than others on this list.
 
 
 
