@@ -20,4 +20,6 @@ https://zipcpu.com/dsp/2017/10/27/lfsr.html - LFSR Theory and Galois Fields for 
 
 http://www.asic-world.com/examples/verilog/d_ff.html - Verilog DFF, no Set (aka hold or enable), synchronous or async
 
-https://courses.cs.washington.edu/courses/cse370/09wi/Tutorials/Tutorial_4.html - FSMs in Verilog
+https://inst.eecs.berkeley.edu/~cs150/sp12/resources/FSM.pdf- FSMs in Verilog
+
+https://courses.cs.washington.edu/courses/cse370/ - I really like this course, but you can't access some stuff you need to do the tutorials as presented and need to adjust them
