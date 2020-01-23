@@ -40,6 +40,8 @@ There's a 33% discount for students/teachers on most FPGAs, so if these are your
 
 https://store.digilentinc.com/nexys-a7-fpga-trainer-board-recommended-for-ece-curriculum/ - **200$** - The board you use for class. It's a nice board, and has far and away the best IO options like displays, buttons and switches. Gread PMOD setup, ADC, good media connectors (VGA, audio codec, ethernet setup). Probably costs more than you should spend on a non-SoC FPGA
 
+https://store.digilentinc.com/basys-3-artix-7-fpga-trainer-board-recommended-for-introductory-users/?gclid=EAIaIQobChMI4LzeqI6a5wIVEJSzCh1x5QdFEAAYASAAEgIvEvD_BwE - **112$** - Same concept as Nexys, just smaller, fewer displays, switches, etc. but a very similar board. The perk of the Nexys/Basys is the plethora of tutorials (see the digilent github above)
+
 
 
 ### Free Student Software I want to try personally
