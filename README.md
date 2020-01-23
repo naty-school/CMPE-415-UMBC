@@ -18,6 +18,10 @@ https://insights.sigasi.com/opinion/jan/verilogs-major-flaw/ - explanation of de
 
 https://www.nandland.com/articles/block-ram-in-fpga.html - What is a BRAM?
 
+http://vhdlguru.blogspot.com/2011/01/block-and-distributed-rams-on-xilinx.html - Block Ram vs. Distributed RAM
+
+https://www.reddit.com/r/FPGA/comments/eri97t/beginner_explanation_of_fpga_memory_uses/ - My Reddit post on this topic. I asked the question and got some really good answers. (go ahead, all my post history on this account is FPGA or CMPE college stuff)
+
 https://zipcpu.com/dsp/2017/10/27/lfsr.html - LFSR Theory and Galois Fields for beginners (useful for understanding boolean logic)
 
 http://www.asic-world.com/examples/verilog/d_ff.html - Verilog DFF, no Set (aka hold or enable), synchronous or async
