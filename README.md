@@ -16,6 +16,8 @@ TRUST ME THIS IS IMPORTANT. I know these can be annoying, but until you've exper
 
 https://insights.sigasi.com/opinion/jan/verilogs-major-flaw/ - explanation of deltas and how nonblocking works
 
+https://www.eetimes.com/understanding-clock-domain-crossing-issues/# - Clock Domain Crossing for beginners
+
 https://www.nandland.com/articles/block-ram-in-fpga.html - What is a BRAM?
 
 http://vhdlguru.blogspot.com/2011/01/block-and-distributed-rams-on-xilinx.html - Block Ram vs. Distributed RAM
