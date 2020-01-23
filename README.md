@@ -22,4 +22,4 @@ http://www.asic-world.com/examples/verilog/d_ff.html - Verilog DFF, no Set (aka 
 
 https://inst.eecs.berkeley.edu/~cs150/sp12/resources/FSM.pdf- FSMs in Verilog
 
-https://courses.cs.washington.edu/courses/cse370/ - I really like this course, but you can't access some stuff you need to do the tutorials as presented and need to adjust them
+https://courses.cs.washington.edu/courses/cse370/09wi/ - I really like this course, but you can't access some stuff you need to do the tutorials as presented and need to adjust them
