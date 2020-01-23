@@ -7,6 +7,7 @@ Note that they aren't particularly good though.
 ### Links
 
 https://eclipse.umbc.edu/robucci/cmpe415/ - old 415 site, useful for reference.
+https://www.xilinx.com/support/university/vivado/vivado-teaching-material/hdl-design.html - Xilinx tutorial. These are **very** good
 
 https://github.com/Digilent?utf8=%E2%9C%93&q=Nexys&type=&language= - Digilent Nexys Demos. If you like this stuff and find it fun, spend some time on these. They're out-of-box fully functional and will teach you stuff. FYI the Nexys A7 and DDR4 are effectively the same board
 
