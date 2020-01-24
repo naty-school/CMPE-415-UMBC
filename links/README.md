@@ -8,6 +8,8 @@ https://github.com/Digilent?utf8=%E2%9C%93&q=Nexys&type=&language= - Digilent Ne
 fun, spend some time on these. They're out-of-box fully functional and will teach you stuff. FYI the Nexys A7 and DDR4 are 
 effectively the same board
 
+http://web.mit.edu/6.111/volume2/www/f2019/index.html - Best FPGA undergrad course I've seen - AKA Digital Death Lab
+
 TRUST ME THIS IS IMPORTANT. I know these can be annoying, but until you've experienced race condition hell you don't understand 
 www.sunburst-design.com/papers/CummingsSNUG2000SJ_NBA.pdf
 
