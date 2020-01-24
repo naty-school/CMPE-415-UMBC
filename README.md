@@ -4,7 +4,11 @@ Beginner FPGA class projects. Documentation is sketchy or nonexistent.
 Mainly here for personal storage, but if you want to look at them go ahead.
 Note that they aren't particularly good though.
 
+### Links
+Various links of interest w.r.t. Verilog and FPGA design
 
+### Beginner FPGAs
+A list of FPGAs for those who want to get more involved in FPGA design. Prices range from 60$ to 350$.
 
 
 ### Free Student Software I want to try personally
